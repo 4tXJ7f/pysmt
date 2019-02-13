@@ -166,7 +166,7 @@ combinations. The following solvers are supported through native APIs:
 
 * MathSAT (http://mathsat.fbk.eu/)
 * Z3 (https://github.com/Z3Prover/z3/)
-* CVC4 (http://cvc4.cs.nyu.edu/web/)
+* CVC4 (https://cvc4.cs.stanford.edu/web/)
 * Yices 2 (http://yices.csl.sri.com/)
 * CUDD (http://vlsi.colorado.edu/~fabio/CUDD/)
 * PicoSAT (http://fmv.jku.at/picosat/)
